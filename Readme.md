@@ -14,5 +14,5 @@ This implementation is:
 - correct (I have checked it with wolfram alpha)
 - kinda slow (takes 3 seconds on my ~10 year old laptop)
 
-Inspired by [Can we calculate 100 digits of π by hand? The William Shanks method. - [Stand-up Maths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A)](https://www.youtube.com/watch?v=dtiLxLrzjOQ)
-[![Can we calculate 100 digits of π by hand? The William Shanks method. - [Stand-up Maths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A)](https://img.youtube.com/vi/dtiLxLrzjOQ/0.jpg)](https://www.youtube.com/watch?v=dtiLxLrzjOQ)
+Inspired by [Can we calculate 100 digits of π by hand? The William Shanks method. - Stand-up Maths](https://www.youtube.com/watch?v=dtiLxLrzjOQ)
+[![Can we calculate 100 digits of π by hand? The William Shanks method. - Stand-up Maths](https://img.youtube.com/vi/dtiLxLrzjOQ/0.jpg)](https://www.youtube.com/watch?v=dtiLxLrzjOQ)
